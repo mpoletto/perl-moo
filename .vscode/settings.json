@@ -1,0 +1,9 @@
+{
+    "github.copilot.enable": {
+        "Perl": true,
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
